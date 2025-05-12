@@ -13,6 +13,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://antho1404.com"),
+  alternates: {
+    canonical: "/",
+  },
   title: {
     default: "Anthony Estebe",
     template: "%s | Anthony Estebe",
@@ -38,17 +42,17 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <div className="min-h-screen flex flex-col justify-between pt-0 md:pt-20 p-8">
-          <main className="max-w-2xl mx-auto w-full">{children}</main>
-          <footer className="mt-12 text-center">
-            <div className="flex justify-center space-x-4 tracking-tight">
+        <div className="min-h-screen flex flex-col justify-between pt-0 md:pt-20 p-8 max-w-2xl mx-auto w-full space-y-12">
+          <main>{children}</main>
+          <footer className="text-center">
+            <div className="flex justify-center gap-4 tracking-tight">
               {links.map((link) => (
                 <a
                   key={link.name}
                   href={link.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-muted-foreground flex items-center gap-1"
+                  className="text-muted-foreground"
                 >
                   {link.name}
                 </a>
