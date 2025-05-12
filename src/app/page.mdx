@@ -14,6 +14,3 @@ Based in Thailand for over 10 years, originally from France.
 ## Random thoughts
 
 <span className="text-muted-foreground">Coming soon...</span>
-
-- [Why I Don’t Believe in Web3 Anymore — And Why I Was There in the First Place](/b/web3)
-- [How Vibe Coding Is Changing the Industry More Than You Think](/b/vibecoding)
