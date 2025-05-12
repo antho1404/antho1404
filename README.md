@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Anthony Estebe <span className='text-xl text-muted-foreground'>- @antho1404</span>
 
-## Getting Started
+I’m a developer and entrepreneur who’s been building tools for startups and founders for over 15 years. I’ve spent more than a decade in Web3 and am now exploring the frontier of AI—always staying close to what’s next in tech.
 
-First, run the development server:
+Based in Thailand for over 10 years, originally from France.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Current Work
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Liteflow](https://www.liteflow.com) - CEO - <span className='text-muted-foreground'>Helping projects launch & scale products in Web3</span>
+- [anthony • run](https://anthony.run) - Founder - <span className='text-muted-foreground'>AI agent that turns your GitHub issues into PRs</span>
+- [OMA3](https://oma3.io) - Board Member - <span className='text-muted-foreground'>Shape the future of open metaverse standards</span>
+- [Consulteo](https://consulteo.io) - Fractional CTO - <span className='text-muted-foreground'>Monetize your advice with your audience</span>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Random thoughts
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<span className="text-muted-foreground">Coming soon...</span>
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [Why I Don’t Believe in Web3 Anymore — And Why I Was There in the First Place](/b/web3)
+- [How Vibe Coding Is Changing the Industry More Than You Think](/b/vibecoding)
