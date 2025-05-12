@@ -39,7 +39,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <div className="min-h-screen flex flex-col justify-between pt-0 md:pt-20 p-8">
-          <main className="max-w-xl mx-auto w-full">{children}</main>
+          <main className="max-w-2xl mx-auto w-full">{children}</main>
           <footer className="mt-12 text-center">
             <div className="flex justify-center space-x-4 tracking-tight">
               {links.map((link) => (

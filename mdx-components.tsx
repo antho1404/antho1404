@@ -32,7 +32,7 @@ export function useMDXComponents(components: MDXComponents): MDXComponents {
         </a>
       );
     },
-    img: (props) => <Image {...props} />,
+    img: (props) => <Image {...props} alt={props.alt || ""} />,
     ...components,
   };
 }
