@@ -4,8 +4,8 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   pageExtensions: ["mdx", "ts", "tsx"],
   experimental: {
-    viewTransitions: true
-  }
+    viewTransition: true,
+  },
 };
 
 const withMDX = createMDX({});

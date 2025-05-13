@@ -1,7 +1,6 @@
 import { Analytics } from "@vercel/analytics/next";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import { useViewTransition } from "next/navigation";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -34,9 +33,6 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  // Enable view transitions
-  useViewTransition();
-  
   const links = [
     { name: "@antho1404", url: "https://x.com/antho1404" },
     { name: "LinkedIn", url: "https://www.linkedin.com/in/anthony-estebe/" },
