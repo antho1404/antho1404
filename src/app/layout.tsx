@@ -1,6 +1,7 @@
 import { Analytics } from "@vercel/analytics/next";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { useViewTransition } from "next/navigation";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -33,6 +34,9 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  // Enable view transitions
+  useViewTransition();
+  
   const links = [
     { name: "@antho1404", url: "https://x.com/antho1404" },
     { name: "LinkedIn", url: "https://www.linkedin.com/in/anthony-estebe/" },
@@ -41,7 +45,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased home-page`}
       >
         <div className="min-h-screen flex flex-col justify-between pt-0 md:pt-20 p-8 max-w-2xl mx-auto w-full space-y-12">
           <main>{children}</main>
