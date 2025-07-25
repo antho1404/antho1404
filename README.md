@@ -6,13 +6,13 @@ Based in Thailand for over 10 years, originally from France and father of 1.
 
 ## Current Work
 
-- [Liteflow](https://liteflow.com/) - CEO - <span className='text-muted-foreground'>Help projects launch & scale products in Web3 <Badge variant="outline">Open to sell</Badge></span>
-- [Orbyte Labs](https://www.orbytelabs.com/) - Founder - <span className='text-muted-foreground'>build technology that serves a purpose</span>
-- [anthony • run](https://anthony.run/) - Founder - <span className='text-muted-foreground'>Remote AI agent that turns your issues into PRs</span>
-- [OMA3](https://www.oma3.org/) - Board Member - <span className='text-muted-foreground'>Shape the future of open metaverse standards</span>
-- [Consulteo](https://www.consulteo.io/) - Fractional CTO - <span className='text-muted-foreground'>Monetize your advice with your audience</span>
+- [Liteflow](https://liteflow.com/) - CEO - Help projects launch & scale products in Web3 - Open to sell
+- [Orbyte Labs](https://www.orbytelabs.com/) - Founder - build technology that serves a purpose
+- [anthony • run](https://anthony.run/) - Founder - Remote AI agent that turns issues into PRs
+- [OMA3](https://www.oma3.org/) - Board Member - Shape the future of open metaverse standards
+- [Consulteo](https://www.consulteo.io/) - Fractional CTO - Monetize your advice with your audience
 
 ## Random thoughts
 
 - [10 years in Web3, here's why I'm no longer hyped](https://antho1404.com/thoughts/web3)
-- <span className="text-muted-foreground">More to come...</span>
+- More to come...
