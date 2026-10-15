@@ -1,18 +1,20 @@
-# Anthony Estebe - @antho1404
+# Anthony Estebe · @antho1404
 
-I’m a developer and entrepreneur who’s been building tools for startups and founders for over 15 years. I’ve spent more than a decade in Web3 and am now exploring the frontier of AI—always staying close to what’s next in tech.
+Developer by trade. Founder by habit.
 
-Based in Thailand for over 10 years, originally from France and father of 1.
+I've spent 15+ years building software and companies. These days, I'm building AI tools for the work that eats up a team's day, and the billing infrastructure behind products like them.
 
-## Current Work
+Originally from France, based in Thailand for more than a decade. Dad of one. Still happiest when I can turn a complicated problem into something simple to use.
 
-- [Liteflow](https://liteflow.com/) - CEO - Help projects launch & scale products in Web3 - Open to sell
-- [Orbyte Labs](https://www.orbytelabs.com/) - Founder - build technology that serves a purpose
-- [anthony • run](https://anthony.run/) - Founder - Remote AI agent that turns issues into PRs
-- [OMA3](https://www.oma3.org/) - Board Member - Shape the future of open metaverse standards
-- [Consulteo](https://www.consulteo.io/) - Fractional CTO - Monetize your advice with your audience
+## What I'm building
 
-## Random thoughts
+- [Orbyte Labs](https://www.orbytelabs.com/) - Co-founder: Credit-based billing for AI products.
+- [Teamy](https://www.teamy.run/) - Co-founder: AI agents for everyday business operations.
+- [Consulteo](https://www.consulteo.io/) - Fractional CTO: Helping experts sell their advice.
 
-- [10 years in Web3, here's why I'm no longer hyped](https://antho1404.com/thoughts/web3)
-- More to come...
+## A few earlier chapters
+
+- Liteflow - Co-founder & CEO: Web3 infrastructure and NFT marketplaces.
+- MESG - Co-founder: Decentralized infrastructure for application development.
+- anthony.run - Founder: GitHub issues into pull requests with AI.
+- OMA3 - Former board member: Open infrastructure for the Spatial Web.
