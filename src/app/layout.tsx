@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     template: "%s | Anthony Estebe",
   },
   description:
-    "Entrepreneur, developer, and creator. Build tools to help startups and founders",
+    "Developer by trade. Founder by habit. Anthony Estebe, co-founder of Orbyte Labs and Teamy, building AI tools and credit-based billing from Thailand.",
   authors: [{ name: "Anthony Estebe" }],
   creator: "Anthony Estebe",
 };
@@ -34,7 +34,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   const links = [
-    { name: "@antho1404", url: "https://x.com/antho1404" },
+    { name: "X/Twitter", url: "https://x.com/antho1404" },
     { name: "LinkedIn", url: "https://www.linkedin.com/in/anthony-estebe/" },
     { name: "GitHub", url: "https://github.com/antho1404" },
   ];

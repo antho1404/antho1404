@@ -1,26 +1,58 @@
-import { Badge } from "@/components/ui/badge";
-import { unstable_ViewTransition as ViewTransition } from "react";
+import Image from "next/image";
 
-<ViewTransition name="author-name">
+<header className="flex items-center gap-4">
+  <Image
+    src="/anthony-estebe.jpg"
+    alt="Anthony Estebe"
+    width={64}
+    height={64}
+    priority
+    className="size-16 shrink-0 object-cover rounded"
+  />
   <h1>
     Anthony Estebe{" "}
     <span className="text-xl text-muted-foreground">- @antho1404</span>
   </h1>
-</ViewTransition>
+</header>
 
-I’m a developer and entrepreneur who’s been building tools for startups and founders for over 15 years. I’ve spent more than a decade in Web3 and am now exploring the frontier of AI—always staying close to what’s next in tech.
+Developer by trade. Founder by habit.
 
-Based in Thailand for over 10 years, originally from France and father of 1.
+I've spent 15+ years building software and companies. These days, I'm building AI tools for the work that eats up a team's day, and the billing infrastructure behind products like them.
 
-## Current Work
+Originally from France, based in Thailand for more than a decade. Dad of one. Still happiest when I can turn a complicated problem into something simple to use.
 
-- [Liteflow](https://liteflow.com/) - CEO - <span className='text-muted-foreground'>Help projects launch & scale products in Web3 <Badge variant="outline">Open to sell</Badge></span>
-- [Orbyte Labs](https://www.orbytelabs.com/) - Founder - <span className='text-muted-foreground'>build technology that serves a purpose</span>
-- [anthony • run](https://anthony.run/) - Founder - <span className='text-muted-foreground'>Remote AI agent that turns issues into PRs</span>
-- [OMA3](https://www.oma3.org/) - Board Member - <span className='text-muted-foreground'>Shape the future of open metaverse standards</span>
-- [Consulteo](https://www.consulteo.io/) - Fractional CTO - <span className='text-muted-foreground'>Monetize your advice with your audience</span>
+## What I'm building
 
-## Random thoughts
+- [Orbyte Labs](https://www.orbytelabs.com/) - Co-founder: <span className="min-w-0 text-muted-foreground">Credit-based billing for AI products.</span>
+- [Teamy](https://www.teamy.run/) - Co-founder: <span className="min-w-0 text-muted-foreground">AI agents for everyday business operations.</span>
+- [Consulteo](https://www.consulteo.io/) - Fractional CTO: <span className="min-w-0 text-muted-foreground">Helping experts sell their advice.</span>
 
-- [10 years in Web3, here's why I'm no longer hyped](/thoughts/web3)
-- <span className="text-muted-foreground">More to come...</span>
+## A few earlier chapters
+
+- Liteflow - Co-founder & CEO: <span className="min-w-0 text-muted-foreground">Web3 infrastructure and NFT marketplaces.</span>
+- MESG - Co-founder: <span className="min-w-0 text-muted-foreground">Decentralized infrastructure for application development.</span>
+- anthony.run: Founder: <span className="min-w-0 text-muted-foreground">GitHub issues into pull requests with AI.</span>
+- OMA3 - Former board member: <span className="min-w-0 text-muted-foreground">Open infrastructure for the Spatial Web.</span>
+
+## Still writing code
+
+<p className="text-muted-foreground">The last year on GitHub. A little evidence that I still open my editor.</p>
+
+<div className="mb-4 overflow-x-auto">
+  <a href="https://github.com/antho1404?tab=overview" target="_blank" rel="noopener noreferrer" className="block hover:brightness-100">
+    <Image
+      src="https://ghchart.rshah.org/2563eb/antho1404"
+      alt="Anthony Estebe's GitHub contribution calendar for the past year. Open the GitHub profile for activity details."
+      width={663}
+      height={104}
+      unoptimized
+      className="h-auto w-full min-w-[480px]"
+    />
+  </a>
+</div>
+
+<p className="text-xs leading-tight text-muted-foreground">AI has changed how I build. I'm still just as busy, but this graph captures less of the work now.</p>
+ 
+---
+
+Have a product to build or a messy technical problem to untangle? [Let's talk on LinkedIn](https://www.linkedin.com/in/anthony-estebe/).
