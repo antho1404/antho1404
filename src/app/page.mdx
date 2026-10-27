@@ -1,13 +1,29 @@
 import Image from "next/image";
 
+export const metadata = {
+  openGraph: {
+    images: [
+      {
+        url: "/anthony-estebe.webp",
+        width: 600,
+        height: 600,
+        alt: "Anthony Estebe",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary",
+  },
+};
+
 <header className="flex items-center gap-4">
   <Image
-    src="/anthony-estebe.jpg"
+    src="/anthony-estebe.webp"
     alt="Anthony Estebe"
     width={64}
     height={64}
     priority
-    className="size-16 shrink-0 object-cover rounded"
+    className="size-16 shrink-0 rounded-full object-cover ring-1 ring-border"
   />
   <h1>
     Anthony Estebe{" "}
@@ -47,7 +63,7 @@ Originally from France, based in Thailand for more than a decade. Dad of one. St
       height={104}
       loading="eager"
       unoptimized
-      className="h-auto w-full min-w-[480px]"
+      className="github-contribution-graph h-auto w-full min-w-[480px]"
     />
   </a>
 </div>
